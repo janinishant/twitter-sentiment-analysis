@@ -2,8 +2,8 @@
  * Contructor for my JS app
  */
 var tintupTweetApp = function () {
-    this.baseUrl = "http://localhost/misc/tintup/";
-    this.modelsBaseUrl = "http://localhost/misc/tintup/models/";
+    this.baseUrl = "https://guarded-wave-7955.herokuapp.com/";
+    this.modelsBaseUrl = "https://guarded-wave-7955.herokuapp.com/models/";
     this.sentimentColorMap = {
         'pos': 'green',
         'neg': 'red',
