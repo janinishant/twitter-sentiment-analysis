@@ -14,11 +14,12 @@ Currently the app allows users to:-
 Following are a few snapshots of the app.
 
 1. Following the trending topic of Salman Khan, the bollywood actor. Here are the sentiment analysis for the top 15 tweets.
-<img src="">
+<img src="https://raw.githubusercontent.com/janinishant/twitter-sentiment-analysis/screenshots/assets/img/Tintup%20%20%20Sentiment%20Analysis%20Dashboard.png">
 
 2. Following are some negative & neutral sentiments that were analysed from the tweets.
+<img src="https://raw.githubusercontent.com/janinishant/twitter-sentiment-analysis/screenshots/assets/img/Tintup%20%20%20Sentiment%20Analysis%20Dashboard_Negative.png">
 
 3. Drawing statistic to get further insights into the sentiments.
-<img src="">
+<img src="https://raw.githubusercontent.com/janinishant/twitter-sentiment-analysis/screenshots/assets/img/stats.png">
 
 
