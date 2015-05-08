@@ -25,7 +25,6 @@ tintupTweetApp.prototype.getSentimentsSortedResults = function (query) {
         success: function (data, response) {
             data = JSON.parse(data);
             self.data = data;
-            debugger;
             if (!data.meta || (data.meta &&  parseInt(data.meta.totalCount) == 0)) {
                 self.renderNoResults();
                 return;
